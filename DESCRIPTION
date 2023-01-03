@@ -1,0 +1,20 @@
+Package: bossrdata
+Title: Companion data for the bossr package. 
+Version: 0.0.1
+Authors@R: 
+    c(
+        person("Virgilio", "Gonzenbach", , "vgonzenb@upenn.edu", role = c("aut"),
+           comment = c(ORCID = "0000-0001-6600-1768")),
+        person("Eunchan", "Bae", , "ecbae@pennmedicine.upenn.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-2941-3717"))
+    )
+Description: This data package is intended facilitate application of the vignette examples by providing a manageable 4D array. 
+    This 4D array consists of manageable subset of 300x300 slices taken from a larger set of images captured from 
+    immunohistochemical stained slices of mouse CNS.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
+Depends: 
+    R (>= 4.2)
+LazyData: true
