@@ -1,3 +1,4 @@
+^renv\.lock$
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
@@ -6,3 +7,5 @@
 ^\.git
 ^results$
 ^data-raw$
+^renv$
+^.Rprofile$
