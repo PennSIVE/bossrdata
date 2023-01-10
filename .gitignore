@@ -4,8 +4,6 @@
 .httr-oauth
 .DS_Store
 .Rprofile
-logs/
-results/
 data-raw/C1-MOBP1_011218_Region1-regx3.tif
 data-raw/mini.tif
 renv
