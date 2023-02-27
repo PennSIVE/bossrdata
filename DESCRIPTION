@@ -19,3 +19,4 @@ RoxygenNote: 7.2.2
 Depends: 
     R (>= 4.1)
 LazyData: true
+LazyDataCompression: gzip
